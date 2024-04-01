@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TrigonometricFunctionGraph</id>
+    <version>1.0.0</version>
+    <authors>TrigonometricFunctionGraph</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net7.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net7.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Visual Studio\TrigonometricFunctionGraph\TrigonometricFunctionGraph\obj\Debug\net7.0-windows\ru-RU\TrigonometricFunctionGraph.resources.dll" target="lib\net7.0-windows7.0\ru-RU\TrigonometricFunctionGraph.resources.dll" />
+    <file src="C:\Visual Studio\TrigonometricFunctionGraph\TrigonometricFunctionGraph\bin\Debug\net7.0-windows\TrigonometricFunctionGraph.runtimeconfig.json" target="lib\net7.0-windows7.0\TrigonometricFunctionGraph.runtimeconfig.json" />
+    <file src="C:\Visual Studio\TrigonometricFunctionGraph\TrigonometricFunctionGraph\bin\Debug\net7.0-windows\TrigonometricFunctionGraph.dll" target="lib\net7.0-windows7.0\TrigonometricFunctionGraph.dll" />
+  </files>
+</package>

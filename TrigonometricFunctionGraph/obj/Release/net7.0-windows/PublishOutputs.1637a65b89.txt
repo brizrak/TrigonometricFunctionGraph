@@ -1,0 +1,6 @@
+C:\Visual Studio\TrigonometricFunctionGraph\TrigonometricFunctionGraph\bin\Release\net7.0-windows\publish\TrigonometricFunctionGraph.exe
+C:\Visual Studio\TrigonometricFunctionGraph\TrigonometricFunctionGraph\bin\Release\net7.0-windows\publish\TrigonometricFunctionGraph.dll
+C:\Visual Studio\TrigonometricFunctionGraph\TrigonometricFunctionGraph\bin\Release\net7.0-windows\publish\TrigonometricFunctionGraph.deps.json
+C:\Visual Studio\TrigonometricFunctionGraph\TrigonometricFunctionGraph\bin\Release\net7.0-windows\publish\TrigonometricFunctionGraph.runtimeconfig.json
+C:\Visual Studio\TrigonometricFunctionGraph\TrigonometricFunctionGraph\bin\Release\net7.0-windows\publish\TrigonometricFunctionGraph.pdb
+C:\Visual Studio\TrigonometricFunctionGraph\TrigonometricFunctionGraph\bin\Release\net7.0-windows\publish\ru-RU\TrigonometricFunctionGraph.resources.dll
